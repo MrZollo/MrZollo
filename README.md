@@ -1,12 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrZollo/MrZollo/main/signature.png" alt="Signature" width="300"/>
 </p>
-
-# Hi there, I'm MrZollo 👋 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrZollo&label=PROFILE%20VIEWS&blueviolet&for-the-badge&abbreviated=true" alt="Profile Views"/>
 </p>
+
+# Hi there, I'm MrZollo 👋 
 
 🎓 **Student in Information Technology**  
 🚀 **Passionate PHP Developer — Laravel Enthusiast**  
