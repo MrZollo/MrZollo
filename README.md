@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MrZollo/MrZollo/main/signature.png" alt="Signature" width="300"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrZollo&label=PROFILE%20VIEWS&blueviolet&for-the-badge&abbreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MrZollo&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
 </p>
 
 # Hi there, I'm MrZollo 👋 
