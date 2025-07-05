@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="Signature" width="300"/>
+  <img src="assets/github-banner.png" alt="Signature"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrZollo&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
