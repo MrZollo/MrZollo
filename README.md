@@ -1,4 +1,6 @@
-# Hi there, I'm MrZollo 👋 ![](https://komarev.com/ghpvc/?MrZollo&blueviolet&for-the-badge&abbreviated=true)
+# Hi there, I'm MrZollo 👋 
+
+![](https://komarev.com/ghpvc/?MrZollo&blueviolet&for-the-badge&abbreviated=true)
 
 🎓 **Student in Information Technology**  
 🚀 **Passionate PHP Developer — Laravel Enthusiast**  
