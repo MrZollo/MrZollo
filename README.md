@@ -32,7 +32,7 @@
 
 ## 📌 Featured Project
 
-### 🏆 Analysis Sistem For Malaysian Prison
+### 🏆 Prisoner Record and information System management
 A comprehensive analysis solution designed to support the Malaysian prison system.  
 *Built with PHP & Laravel.*
 
