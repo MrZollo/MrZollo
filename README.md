@@ -36,6 +36,8 @@
 ---
 
 ## 🎓 Education
+- **Bachelor's Degree in Computer Science, Major in Artificial Intelligence**
+  Universiti Teknikal Malaysia Melaka, Malaysia
 - **Diploma in Certified Information Systems Security Professional (CISSP 2019)**  
   1 years at a Alison School in Co Galway, Ireland
 - **Diploma in Information Technology (Software & Application Development)**  
