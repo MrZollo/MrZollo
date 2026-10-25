@@ -22,8 +22,8 @@
 
 - I’m currently a student specializing in IT/CS, with a strong passion for building solutions that matter.
 - My main stack: **PHP** (Laravel is my go-to framework!)
-- I love developing practical tools—everything from café management apps to robust e-commerce solutions.
-- My favorite project? **Analysis Sistem For Malaysian Prison** — my final year project, and a real highlight of my learning journey.
+- I love developing practical tools from café management apps to robust e-commerce solutions.
+- My favorite project? **Analysis Sistem For Malaysian Prison** is my final year project, and a real highlight of my learning journey.
 
 ---
 
@@ -63,7 +63,7 @@ A comprehensive analysis solution designed to support the Malaysian prison syste
 
 ## 📫 Connect with Me
 
-Find my social links on [my GitHub profile](https://github.com/MrZollo) — let’s connect!
+Find my social links on [my GitHub profile](https://github.com/MrZollo) - let’s connect!
 
 ---
 
