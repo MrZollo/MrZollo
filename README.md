@@ -16,6 +16,7 @@
 💻 **VSCode Power User**
 
 ---
+<div align="left">
 
 ## 👨‍💻 About Me
 
